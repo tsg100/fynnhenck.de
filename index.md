@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to fynnhenck.de
 
-You can use the [editor on GitHub](https://github.com/tsg100/fynnhenck.de/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hey, my Name is Fynn. I like to program software in my free tim. Thats why I set up this one. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
